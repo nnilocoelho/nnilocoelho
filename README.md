@@ -1,7 +1,5 @@
 ### Hi there 👋🏾 <h2> I'm Nilo Coelho</h2>
 
-<h2>About me:</h2>
-
 <h3>💻 IT Support Technician.</h3>
 
 <h3>🎓 Studying Computer Science.</h3>
