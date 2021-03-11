@@ -1,6 +1,6 @@
 ### Hi there 👋🏾 <h2> I'm Nilo Coelho</h2>
 
-About me:
+<h2>About me:</h2>
 
 <h3>💻 IT Support Technician.</h3>
 
