@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🎓 &nbsp; Studying Computer Science.
+<h3>🎓 &nbsp; Studying Computer Science.</h3>
 
 <h3>🛠 To Learn</h3>
 
-🔧 &nbsp; Python | Java | Database
+Python | Java | Database
 
 
 
