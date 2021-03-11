@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋🏾 <h2> I'm Nilo Coelho</h2>
 
 <h3>🎓 &nbsp; Studying Computer Science.</h3>
 
 <h3>🛠 To Learn</h3>
 
-Python | Java | Database
+Python | Java | Database | IT Infrastructure
 
 
 
