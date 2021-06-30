@@ -6,8 +6,7 @@
 
 <h3>📕 To Learn</h3>
 
-Python | Java | Database | IT Infrastructure | DevOps
-
+Python | Linux | Iac | IT Infrastructure | Containers | DevOps
 
 
 <!--
