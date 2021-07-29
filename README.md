@@ -6,7 +6,7 @@
 
 <h3>📕 To Learn</h3>
 
-Python | Linux | Iac | IT Infrastructure | Containers | DevOps
+Python | Linux | Iac | IT Infrastructure | Containers | Student DevOps
 
 
 <!--
