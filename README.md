@@ -11,7 +11,7 @@ I am a professional with great experiences in infrastructure, support, networks,
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nilojneto/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a>
-<a href="https://www.linkedin.com/in/nilojneto/"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/></a>
+<a href="https://nnilux.netlify.app/"><img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7/></a>
 </p>
 
 ### Languages & Tools 🛠
