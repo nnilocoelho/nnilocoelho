@@ -2,5 +2,6 @@
 
 ## I'm Nilo Coelho [nnilux]
 
-:computer: I'm IT support technician
-:house_with_garden: I’m from Brazil.
+:computer: IT Support Technician | Studying Computer Science.
+
+:house_with_garden: I’m from Florianópolis, Brasil.
