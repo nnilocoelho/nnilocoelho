@@ -3,9 +3,9 @@
 
 ## About me
 
-<p>I'm 34 years old, I'm from Florianópolis, SC.
-I'm currently studying Computer Science and looking for professional qualification, I'm studying tools and the DevOps culture.
-I am a professional with great experiences in infrastructure, support, networks, troubleshooting and passionate about technologies.</p>
+<p>I'm 34 years old, I'm from Florianópolis, Magic Island, Brazil.</p>
+
+</p>I'm currently studying Computer Science and looking for professional qualification, I'm studying tools and the DevOps culture.I am a professional with great experiences in infrastructure, virtualization, support, networks, troubleshooting and passionate about technologies.</p>
 
 ### Let's connect? 🤝🏾
 
